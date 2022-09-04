@@ -1,0 +1,13 @@
+{
+    "Port": 21,
+    "Path": [
+        
+    ],
+    "Users": [
+        {
+            "username": "Admin",
+            "Password": "sgdf",
+            "IP4": "192.168.0.*"
+        }
+    ]    
+}
